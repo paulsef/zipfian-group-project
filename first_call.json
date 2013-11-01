@@ -1,0 +1,986 @@
+
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Greek", 
+          "greek"
+        ], 
+        [
+          "Mediterranean", 
+          "mediterranean"
+        ], 
+        [
+          "Modern European", 
+          "modern_european"
+        ]
+      ], 
+      "display_phone": "+1-415-981-0983", 
+      "id": "kokkari-estiatorio-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/q79Az8osDxYXxJZXv-3eCg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "200 Jackson St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Front St & Battery St", 
+        "display_address": [
+          "200 Jackson St", 
+          "(b/t Front St & Battery St)", 
+          "Financial District", 
+          "San Francisco, CA 94111"
+        ], 
+        "neighborhoods": [
+          "Financial District"
+        ], 
+        "postal_code": "94111", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1382453562, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/kokkari-estiatorio-san-francisco", 
+      "name": "Kokkari Estiatorio", 
+      "phone": "4159810983", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 2586, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/eBadO5hmDQBsVBHaY5o_FQ/ms.jpg", 
+      "snippet_text": "This is an extraordinary restaurant.  They pride themselves on  service and treating you like you are at their home, and it shows. \nThe food should not be...", 
+      "url": "http://www.yelp.com/biz/kokkari-estiatorio-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-415-749-2060", 
+      "id": "gary-danko-san-francisco", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/lansxaYjxNSWAEuDSUl-NA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "800 N Point St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "display_address": [
+          "800 N Point St", 
+          "Russian Hill", 
+          "San Francisco, CA 94109"
+        ], 
+        "neighborhoods": [
+          "Russian Hill", 
+          "Fisherman's Wharf"
+        ], 
+        "postal_code": "94109", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377754807, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/gary-danko-san-francisco", 
+      "name": "Gary Danko", 
+      "phone": "4157492060", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 3506, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/A8Ap5WNFjhT2vAcnU7HDNQ/ms.jpg", 
+      "snippet_text": "Was at French Laundry a few nights before and was not impressed.  Gary Danko blew me and gf away.  The service is some of the best I've every received.  The...", 
+      "url": "http://www.yelp.com/biz/gary-danko-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ], 
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-415-543-6084", 
+      "id": "boulevard-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/7G3LSu9xeK4zUuPvNHFW4A/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1 Mission St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Steuart St & The Embarcadero", 
+        "display_address": [
+          "1 Mission St", 
+          "(b/t Steuart St & The Embarcadero)", 
+          "Financial District", 
+          "San Francisco, CA 94105"
+        ], 
+        "neighborhoods": [
+          "Financial District", 
+          "SoMa"
+        ], 
+        "postal_code": "94105", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377754454, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/boulevard-san-francisco", 
+      "name": "Boulevard", 
+      "phone": "4155436084", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 1775, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/WOBlWJNyc-nSXFx3Q9itYA/ms.jpg", 
+      "snippet_text": "Always a pleasure to dine here at this lovely, La Belle Epoque-styled restaurant.  The servers have always been correct, well-informed and know how to...", 
+      "url": "http://www.yelp.com/biz/boulevard-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ]
+      ], 
+      "display_phone": "+1-415-750-9787", 
+      "id": "chapeau-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/P0bgvgH1HS94ynEWU2mDyQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "126 Clement St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "3rd Ave & 2nd Ave", 
+        "display_address": [
+          "126 Clement St", 
+          "(b/t 3rd Ave & 2nd Ave)", 
+          "Inner Richmond", 
+          "San Francisco, CA 94118"
+        ], 
+        "neighborhoods": [
+          "Inner Richmond"
+        ], 
+        "postal_code": "94118", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377644479, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/chapeau-san-francisco", 
+      "name": "Chapeau!", 
+      "phone": "4157509787", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 1851, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/KUnsugmfjB-fI13hMcqLRg/ms.jpg", 
+      "snippet_text": "Second time here, even more delicious than the first. Came here with 2 other friends to celebrate my 28th bday.\n\nGreat service. Forgot his name but he was a...", 
+      "url": "http://www.yelp.com/biz/chapeau-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ], 
+        [
+          "Italian", 
+          "italian"
+        ]
+      ], 
+      "display_phone": "+1-415-775-8500", 
+      "id": "quince-san-francisco", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/TooNL9Jh9-dxDwG-FB0rPw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "470 Pacific Ave"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Montgomery St & Osgood Pl", 
+        "display_address": [
+          "470 Pacific Ave", 
+          "(b/t Montgomery St & Osgood Pl)", 
+          "Financial District", 
+          "San Francisco, CA 94133"
+        ], 
+        "neighborhoods": [
+          "Financial District"
+        ], 
+        "postal_code": "94133", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377762911, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/quince-san-francisco", 
+      "name": "Quince", 
+      "phone": "4157758500", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 909, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/HJrH8wEaohdG12wx1_BFYQ/ms.jpg", 
+      "snippet_text": "***Michael Tusk's Quince is one of the best Italian restaurants I've been to and it does a much better job of delivering elegant and exquisite cuisine than...", 
+      "url": "http://www.yelp.com/biz/quince-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ]
+      ], 
+      "display_phone": "+1-415-776-5577", 
+      "id": "la-folie-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/y-k7XjdUoYoXOSk22rYQzg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2316 Polk St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Union St & Green St", 
+        "display_address": [
+          "2316 Polk St", 
+          "(b/t Union St & Green St)", 
+          "Russian Hill", 
+          "San Francisco, CA 94109"
+        ], 
+        "neighborhoods": [
+          "Russian Hill"
+        ], 
+        "postal_code": "94109", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1379263763, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/la-folie-san-francisco", 
+      "name": "La Folie", 
+      "phone": "4157765577", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 1033, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/3ZqikZIwYABKwFiIdjC5JQ/ms.jpg", 
+      "snippet_text": "5 stars for their service, their always friendly and very informative with all the dishes, they also bring out little treats before the meal, during the...", 
+      "url": "http://www.yelp.com/biz/la-folie-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Vegetarian", 
+          "vegetarian"
+        ], 
+        [
+          "Vegan", 
+          "vegan"
+        ]
+      ], 
+      "display_phone": "+1-415-345-3900", 
+      "id": "millennium-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/_Kt01zAkzGDjSphy7W3qOA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "580 Geary St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Jones St & Shannon St", 
+        "display_address": [
+          "580 Geary St", 
+          "(b/t Jones St & Shannon St)", 
+          "Tenderloin", 
+          "San Francisco, CA 94102"
+        ], 
+        "neighborhoods": [
+          "Tenderloin"
+        ], 
+        "postal_code": "94102", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1378748259, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/millennium-san-francisco", 
+      "name": "Millennium", 
+      "phone": "4153453900", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 1395, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/4yrW85LNCVoOXRjAvh3eZw/ms.jpg", 
+      "snippet_text": "Fantastic. I have not had creative, great tasting vegetarian food since going to the old Horizons in Philadelphia. Food here is incredible. I would eat it...", 
+      "url": "http://www.yelp.com/biz/millennium-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ]
+      ], 
+      "display_phone": "+1-415-673-7779", 
+      "id": "fleur-de-lys-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/nPgK0QPRxjq6a5jSOrieKg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "777 Sutter St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Jones St & Taylor St", 
+        "display_address": [
+          "777 Sutter St", 
+          "(b/t Jones St & Taylor St)", 
+          "Tenderloin", 
+          "San Francisco, CA 94109"
+        ], 
+        "neighborhoods": [
+          "Tenderloin"
+        ], 
+        "postal_code": "94109", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377762127, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/fleur-de-lys-san-francisco", 
+      "name": "Fleur De Lys", 
+      "phone": "4156737779", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 1090, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/oI2KZCXVs26S9hLSnzi1og/ms.jpg", 
+      "snippet_text": "This place is an experience.\n\nMy husband and I came here on our anniversary. \n\nPrice matches quality and service. They accommodate vegetarians. \n\nThey went...", 
+      "url": "http://www.yelp.com/biz/fleur-de-lys-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Vegetarian", 
+          "vegetarian"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ]
+      ], 
+      "display_phone": "+1-415-771-6222", 
+      "id": "greens-restaurant-san-francisco-3", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/kZAkqkBkdyTneNp0VvF-bQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "Fort Mason", 
+          "Bldg A"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "display_address": [
+          "Fort Mason", 
+          "Bldg A", 
+          "Marina/Cow Hollow", 
+          "San Francisco, CA 94123"
+        ], 
+        "neighborhoods": [
+          "Marina/Cow Hollow"
+        ], 
+        "postal_code": "94123", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377755876, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/greens-restaurant-san-francisco-3", 
+      "name": "Greens Restaurant", 
+      "phone": "4157716222", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 1228, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/oI2KZCXVs26S9hLSnzi1og/ms.jpg", 
+      "snippet_text": "The food is always great here. Service is exceptional. I will continue to come back.\n\nAlso, great coffee. Sounds like an odd thing to mention, however many...", 
+      "url": "http://www.yelp.com/biz/greens-restaurant-san-francisco-3"
+    }, 
+    {
+      "categories": [
+        [
+          "Chinese", 
+          "chinese"
+        ], 
+        [
+          "Seafood", 
+          "seafood"
+        ]
+      ], 
+      "display_phone": "+1-415-982-7877", 
+      "id": "r-and-g-lounge-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/XOz1bFjXZiWrtVS9EMlNew/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "631 Kearny St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Commercial St & Clay St", 
+        "display_address": [
+          "631 Kearny St", 
+          "(b/t Commercial St & Clay St)", 
+          "Chinatown", 
+          "San Francisco, CA 94108"
+        ], 
+        "neighborhoods": [
+          "Chinatown"
+        ], 
+        "postal_code": "94108", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377747709, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/r-and-g-lounge-san-francisco", 
+      "name": "R&G Lounge", 
+      "phone": "4159827877", 
+      "rating": 3.5, 
+      "rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+      "rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+      "rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+      "review_count": 2600, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/nDAHDbjsigxS3ZYoyFaVLA/ms.jpg", 
+      "snippet_text": "R&G turns tables faster than any other restaurant I know. A restaurant that caters to the working professionals in Fidi, tourists, and even Asian families...", 
+      "url": "http://www.yelp.com/biz/r-and-g-lounge-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Italian", 
+          "italian"
+        ], 
+        [
+          "Seafood", 
+          "seafood"
+        ]
+      ], 
+      "display_phone": "+1-415-928-4002", 
+      "id": "allegro-romano-san-francisco", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/EVUNsI38bJROQj4OomQDug/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1701 Jones St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Broadway St & Glover St", 
+        "display_address": [
+          "1701 Jones St", 
+          "(b/t Broadway St & Glover St)", 
+          "Russian Hill", 
+          "San Francisco, CA 94109"
+        ], 
+        "neighborhoods": [
+          "Russian Hill"
+        ], 
+        "postal_code": "94109", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377743005, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/allegro-romano-san-francisco", 
+      "name": "Allegro Romano", 
+      "phone": "4159284002", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 326, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/M_VQGMWKm2L_rxXukIa31Q/ms.jpg", 
+      "snippet_text": "The food I would rate 4 stars, but I must must must give an extra billion stars for the service. My aunt was in town so my parents and I decided to take her...", 
+      "url": "http://www.yelp.com/biz/allegro-romano-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Vietnamese", 
+          "vietnamese"
+        ], 
+        [
+          "Vegan", 
+          "vegan"
+        ]
+      ], 
+      "display_phone": "+1-415-673-3136", 
+      "id": "golden-era-vegan-restaurant-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/pdegnzJx6odXlk9eKzYfeg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "572 O'Farrell St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Jones St & Leavenworth St", 
+        "display_address": [
+          "572 O'Farrell St", 
+          "(b/t Jones St & Leavenworth St)", 
+          "Tenderloin", 
+          "San Francisco, CA 94102"
+        ], 
+        "neighborhoods": [
+          "Tenderloin"
+        ], 
+        "postal_code": "94102", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377753687, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/golden-era-vegan-restaurant-san-francisco", 
+      "name": "Golden Era Vegan Restaurant", 
+      "phone": "4156733136", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 800, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/3P0LeKWJHxIw-o1mDJfVgw/ms.jpg", 
+      "snippet_text": "THe path to get there: stinky, disgusting, annoying. \n\nEnter inside: oasis. Clean. Pleasant. Wonderful. \n\nThe staff is SO kind and accommodating. The food...", 
+      "url": "http://www.yelp.com/biz/golden-era-vegan-restaurant-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-415-781-5555", 
+      "id": "campton-place-restaurant-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/m1KHuukvcthDV_jzyTpoRA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "340 Stockton St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Post St & Campton Pl", 
+        "display_address": [
+          "340 Stockton St", 
+          "(b/t Post St & Campton Pl)", 
+          "Union Square", 
+          "San Francisco, CA 94108"
+        ], 
+        "neighborhoods": [
+          "Union Square", 
+          "Financial District"
+        ], 
+        "postal_code": "94108", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1379250254, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/campton-place-restaurant-san-francisco", 
+      "name": "Campton Place Restaurant", 
+      "phone": "4157815555", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 403, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/kohjqX0uBlSLBEbhpEETMw/ms.jpg", 
+      "snippet_text": "Wow!  What an excellent experience from start to finish at this great Michelin Star restaurant at the Taj Campton Place Hotel!\n\nService - Food - Ingredients...", 
+      "url": "http://www.yelp.com/biz/campton-place-restaurant-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Italian", 
+          "italian"
+        ], 
+        [
+          "Seafood", 
+          "seafood"
+        ]
+      ], 
+      "display_phone": "+1-415-550-8114", 
+      "id": "la-ciccia-san-francisco", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/lRTOZiflW9lsVdYBk6G7tQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "291 30th St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Chenery St & Church St", 
+        "display_address": [
+          "291 30th St", 
+          "(b/t Chenery St & Church St)", 
+          "Noe Valley", 
+          "San Francisco, CA 94131"
+        ], 
+        "neighborhoods": [
+          "Noe Valley"
+        ], 
+        "postal_code": "94131", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377763047, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/la-ciccia-san-francisco", 
+      "name": "La Ciccia", 
+      "phone": "4155508114", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 664, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/MT6nDVFr7T3ZF35CzY0U5w/ms.jpg", 
+      "snippet_text": "Do you like delicious Sardinian/Italian food served to you in a cozy neighborhood place where the service is excellent? Oh, you do, eh?\n\nLa Ciccia has...", 
+      "url": "http://www.yelp.com/biz/la-ciccia-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Asian Fusion", 
+          "asianfusion"
+        ]
+      ], 
+      "display_phone": "+1-415-986-8612", 
+      "id": "the-house-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Qo-eoz8T9K0FqmEcEOndrA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1230 Grant Ave"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Broadway St", 
+        "display_address": [
+          "1230 Grant Ave", 
+          "(b/t Broadway St)", 
+          "North Beach/Telegraph Hill", 
+          "San Francisco, CA 94133"
+        ], 
+        "neighborhoods": [
+          "North Beach/Telegraph Hill"
+        ], 
+        "postal_code": "94133", 
+        "state_code": "CA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-house-san-francisco", 
+      "name": "The House", 
+      "phone": "4159868612", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 2752, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/GKePQqW-vARZzNWw0ZEGrA/ms.jpg", 
+      "snippet_text": "I hosted my mom's 70th birthday party here upon a recommendation by a fellow Yelp Elite and wasn't disappointed with the food or service! Knowing that this...", 
+      "url": "http://www.yelp.com/biz/the-house-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-415-821-7652", 
+      "id": "firefly-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/KB36ipNtoJtZz1m0iQ9jjA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4288 24th St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Douglass St & Diamond St", 
+        "display_address": [
+          "4288 24th St", 
+          "(b/t Douglass St & Diamond St)", 
+          "Noe Valley", 
+          "San Francisco, CA 94114"
+        ], 
+        "neighborhoods": [
+          "Noe Valley"
+        ], 
+        "postal_code": "94114", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377754597, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/firefly-san-francisco", 
+      "name": "Firefly", 
+      "phone": "4158217652", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 1113, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/JZ_fOvFFwbYYpVOi8o2JaQ/ms.jpg", 
+      "snippet_text": "Really liked the restaurant concept and decor. It has a rustic homey feel to it, with drapes on the ceiling. Warm colors --- a pretty surreal dining...", 
+      "url": "http://www.yelp.com/biz/firefly-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-931-5100", 
+      "id": "spruce-san-francisco", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/lh2LTXr0U-oVzfufd8AN9Q/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "3640 Sacramento St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Spruce St & Locust St", 
+        "display_address": [
+          "3640 Sacramento St", 
+          "(b/t Spruce St & Locust St)", 
+          "Presidio Heights", 
+          "San Francisco, CA 94118"
+        ], 
+        "neighborhoods": [
+          "Presidio Heights"
+        ], 
+        "postal_code": "94118", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377761461, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/spruce-san-francisco", 
+      "name": "Spruce", 
+      "phone": "4159315100", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 1181, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/DRkisd9cE_BjhvO0ldZhwA/ms.jpg", 
+      "snippet_text": "Seriously have to rave about this restaurant.  At first, by taking a look online at pictures of their decor you would think....it's gonna be stuffy and...", 
+      "url": "http://www.yelp.com/biz/spruce-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ], 
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Champagne Bars", 
+          "champagne_bars"
+        ]
+      ], 
+      "display_phone": "+1-415-861-5555", 
+      "id": "jardini\u00e8re-san-francisco-2", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/simOq14RgMgq_ixI_nJCwQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "300 Grove St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Franklin St & Gough St", 
+        "display_address": [
+          "300 Grove St", 
+          "(b/t Franklin St & Gough St)", 
+          "Hayes Valley", 
+          "San Francisco, CA 94102"
+        ], 
+        "neighborhoods": [
+          "Hayes Valley"
+        ], 
+        "postal_code": "94102", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1381459920, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/jardini%C3%A8re-san-francisco-2", 
+      "name": "Jardini\u00e8re", 
+      "phone": "4158615555", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 1110, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/ON0iPJ3AVjAr-rIhpMRKWQ/ms.jpg", 
+      "snippet_text": "I am not a foodie or fancy, but I came here and had, quite possibly, one of the best food experiences of my life.  Yes, the food was amazing, but it was...", 
+      "url": "http://www.yelp.com/biz/jardini%C3%A8re-san-francisco-2"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Modern European", 
+          "modern_european"
+        ], 
+        [
+          "Breakfast & Brunch", 
+          "breakfast_brunch"
+        ]
+      ], 
+      "display_phone": "+1-415-864-8643", 
+      "id": "nopa-san-francisco", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/p6SMBwKBPWDGCJtRthUwBA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "560 Divisadero St"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Fell St & Hayes St", 
+        "display_address": [
+          "560 Divisadero St", 
+          "(b/t Fell St & Hayes St)", 
+          "Alamo Square", 
+          "San Francisco, CA 94117"
+        ], 
+        "neighborhoods": [
+          "Alamo Square"
+        ], 
+        "postal_code": "94117", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377548647, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/nopa-san-francisco", 
+      "name": "NOPA", 
+      "phone": "4158648643", 
+      "rating": 4.0, 
+      "rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+      "rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+      "rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+      "review_count": 3343, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/GiHB0RSSuo-xNRCBDctezg/ms.jpg", 
+      "snippet_text": "Oh NOPA, you made me such a happy human being. I left wanting more. I left wanting to to-go some for my family in Socal. I am so glad that we waited that my...", 
+      "url": "http://www.yelp.com/biz/nopa-san-francisco"
+    }, 
+    {
+      "categories": [
+        [
+          "Japanese", 
+          "japanese"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ]
+      ], 
+      "display_phone": "+1-415-673-6004", 
+      "id": "kappa-japanese-restaurant-san-francisco", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/IJB-mLcTT_XVewYiVSrZdg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1700 Post St", 
+          "Ste K"
+        ], 
+        "city": "San Francisco", 
+        "country_code": "US", 
+        "cross_streets": "Webster St & Buchanan St", 
+        "display_address": [
+          "1700 Post St", 
+          "Ste K", 
+          "(b/t Webster St & Buchanan St)", 
+          "Japantown", 
+          "San Francisco, CA 94115"
+        ], 
+        "neighborhoods": [
+          "Japantown", 
+          "Lower Pacific Heights"
+        ], 
+        "postal_code": "94115", 
+        "state_code": "CA"
+      }, 
+      "menu_date_updated": 1377762509, 
+      "menu_provider": "single_platform", 
+      "mobile_url": "http://m.yelp.com/biz/kappa-japanese-restaurant-san-francisco", 
+      "name": "Kappa Japanese Restaurant", 
+      "phone": "4156736004", 
+      "rating": 4.5, 
+      "rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+      "rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+      "rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+      "review_count": 152, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/CxmLH88tQvdY1axEgsR6Bg/ms.jpg", 
+      "snippet_text": "Nice , small  place .. Over priced  \n359$ for dinner Of 2 with sake\nInteresting , unique experience \nWould not comeback    service  was excellent", 
+      "url": "http://www.yelp.com/biz/kappa-japanese-restaurant-san-francisco"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 37.774185, 
+      "longitude": -122.42684944999999
+    }, 
+    "span": {
+      "latitude_delta": 0.07022399999999607, 
+      "longitude_delta": 0.07458780999999703
+    }
+  }, 
+  "total": 4599
+}
